@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-27T06:38:08 PDT" name="orangeHRm" finished-at="2021-06-27T06:38:46 PDT" duration-ms="38034">
+    <groups>
+    </groups>
+    <test started-at="2021-06-27T06:38:08 PDT" name="PEndingLeaveRequest" finished-at="2021-06-27T06:38:35 PDT" duration-ms="27468">
+      <class name="testCases.Test_Pending_Leave_Request">
+        <test-method signature="verify_Test_pending()[pri:0, instance:testCases.Test_Pending_Leave_Request@446293d]" started-at="2021-06-27T06:38:08 PDT" name="verify_Test_pending" finished-at="2021-06-27T06:38:35 PDT" duration-ms="27410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Test_pending -->
+      </class> <!-- testCases.Test_Pending_Leave_Request -->
+    </test> <!-- PEndingLeaveRequest -->
+    <test started-at="2021-06-27T06:38:35 PDT" name="CheckuserroleTestcase" finished-at="2021-06-27T06:38:46 PDT" duration-ms="10530">
+      <class name="testCases.Test_User_Role">
+        <test-method is-config="true" signature="lanchbrowser()[pri:0, instance:testCases.Test_User_Role@28f2a10f]" started-at="2021-06-27T06:37:23 PDT" name="lanchbrowser" finished-at="2021-06-27T06:38:08 PDT" duration-ms="44669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchbrowser -->
+        <test-method signature="checkUserRole()[pri:0, instance:testCases.Test_User_Role@28f2a10f]" started-at="2021-06-27T06:38:35 PDT" name="checkUserRole" finished-at="2021-06-27T06:38:46 PDT" duration-ms="10527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUserRole -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:testCases.Test_User_Role@28f2a10f]" started-at="2021-06-27T06:38:46 PDT" name="closing" finished-at="2021-06-27T06:38:46 PDT" duration-ms="784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- testCases.Test_User_Role -->
+    </test> <!-- CheckuserroleTestcase -->
+  </suite> <!-- orangeHRm -->
+</testng-results>
